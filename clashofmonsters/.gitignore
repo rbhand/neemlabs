@@ -1,0 +1,12 @@
+Inbox
+Outbox
+Documents/Drafts
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+Tools/spritesheetgen-build-desktop
+Tools/spritesheetgen/spritesheetgen.pro.user
+Tests/pbtest/pbtest.xcodeproj/project.xcworkspace
+Tests/pbtest/pbtest.xcodeproj/xcuserdata
+Tools/spritecutter/spritecutter.xcodeproj/project.xcworkspace
+Tools/spritecutter/spritecutter.xcodeproj/xcuserdata
+Tools/bin

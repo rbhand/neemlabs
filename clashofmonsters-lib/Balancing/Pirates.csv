@@ -1,0 +1,15 @@
+Name,Description,Type,Defensive,Offensive,Turns to charge,Cost,Special,Special param 1
+,,,,,,,,
+Octopus,Devours enemy's idle unit each turn,Large x4,19,62,4,0,Remove unmade,
+Skeleton,Regenerates once after being destroyed,Large x2,15,30,3,0,Regenerate,1
+Croc,Whip of its tail inflicts 6 points of damage to unit in enemy's column,Large x2,20,35,4,0,Attack first,6
+Giant Octopus,"Devours enemy's unit, idle or charging, each turn",Large x4,21,72,4,95000,Remove any,
+Captain Skeleton,Regenerates after being destroyed first and second time,Large x2,32,45,2,450000,Regenerate,2
+Pirate with sword,,Small,3,3,1,0,,
+Pirate with gun,,Small,4,6,2,0,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Wall strength,,4,,,,,,
+Wall strength x2,,7,,,,,,

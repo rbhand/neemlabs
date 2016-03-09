@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dependencies/facebook-android-sdk" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.2.1/libexec" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/facebook" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/HelloFacebookSample" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/Iconicus" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/MessengerSendSample" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/RPSSample" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/Scrumptious" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/ShareIt" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/SwitchUserSample" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/facebook" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/HelloFacebookSample" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/Iconicus" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/MessengerSendSample" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/RPSSample" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/Scrumptious" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/ShareIt" />
+            <option value="$PROJECT_DIR$/dependencies/facebook-android-sdk/samples/SwitchUserSample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

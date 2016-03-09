@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Environments</key>
+	<dict>
+		<key>_ALL</key>
+		<dict>
+			<key>marketing_url</key>
+			<string>https://itunes.apple.com/us/app/pirates-versus-ninjas-2-player/id667901021?ls=1&amp;mt=8</string>
+			<key>app_store_id</key>
+			<string>667901021</string>
+		</dict>
+		<key>devel</key>
+		<dict>
+			<key>apns</key>
+			<string>d</string>
+			<key>host</key>
+			<string>192.168.1.102</string>
+			<key>port</key>
+			<string>3000</string>
+			<key>secure_port</key>
+			<string>3000</string>
+			<key>localhost</key>
+			<true/>
+		</dict>
+		<key>staging</key>
+		<dict>
+			<key>apns</key>
+			<string>a</string>
+			<key>host</key>
+			<string>w2f2.com</string>
+			<key>port</key>
+			<string>3100</string>
+			<key>secure_port</key>
+			<string>3100</string>
+		</dict>
+		<key>live</key>
+		<dict>
+			<key>apns</key>
+			<string>l</string>
+			<key>host</key>
+			<string>pirates-vs-ninjas.f17y.com</string>
+			<key>port</key>
+			<string>8083</string>
+			<key>secure_port</key>
+			<string>8083</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

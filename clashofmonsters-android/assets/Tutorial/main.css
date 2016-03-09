@@ -1,0 +1,58 @@
+body
+{
+	/*background: BurlyWood;*/
+	background: #1c3347;
+	font-family: Georgia;
+	font-size: 18px;
+	/*color: #4e2700;*/
+	color: white;
+	padding: 8px;
+}
+
+h1, h2, h3, h4, h5
+{
+	font-family: Helvetica, Arial;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	
+}
+
+h1
+{
+	font-size: 32px;
+}
+
+p
+{
+	margin: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	/*font-size: 14px;*/
+}
+
+div
+{
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+img
+{
+	max-width: 100%;
+}
+
+
+
+@media all and (max-width: 568px)
+{
+	body
+	{
+		font-size: 14px;
+		padding: 4px;
+	}
+	
+	h1
+	{
+		font-size: 22px;
+	}
+}

@@ -1,0 +1,15 @@
+Name,Description,Type,Defensive,Offensive,Turns to charge,Cost,Special,Special param 1
+,,,,,,,,
+Dragon,Fire breath inflicts 6 points of damage on units and walls,Large x4,15,80,4,0,Attack all,6
+Crane,Screech inflicts 4 points of damage to all enemy's charging units,Large x2,12,65,3,0,Hit all charging units,4
+Spider,Slows down charging of all enemy's units in surrounding columns by 1 turn,Large x4,17,85,3,0,Slow adjascent charges,1
+Komodo Dragon,Fire breathing inflicts 12 points of damage on units and walls,Large x4,21,90,4,45000,Attack through walls,12
+Black Widow Spider,Slows down charging of all enemy's units in surrounding columns by 2 turn,Large x4,30,95,3,950000,Slow adjascent charges,2
+Ninja with stars,,Small,2,5,1,0,,
+Ninja with stick,,Small,3,7,2,0,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Wall strength,,4,,,,,,
+Wall strength x2,,7,,,,,,

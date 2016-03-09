@@ -1,0 +1,3 @@
+[submodule "Libraries/libmonsters"]
+	path = Libraries/libmonsters
+url=git@f17y.com:pirates-vs-ninjas/clashofmonsters-lib.git
